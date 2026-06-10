@@ -1,0 +1,6 @@
+@vs2026git_HostAddress = http://localhost:5151
+
+GET {{vs2026git_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
